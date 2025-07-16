@@ -1,0 +1,14 @@
+{
+	"id": "CultSim",
+	"name": "CultSim Crossover",
+	"display_name": "CultSim Crossover",
+	"author": ["ThisGuy"],
+	"description": "Adds a selection of new materials based on CultSim Simulator. Focuses mainly on the new Influence consumable type, which improves playing cards directly with additional chips and mult.",
+	"prefix": "tg_cultsim",
+	"main_file": "CultSim.lua",
+	"priority": 0,
+	"badge_colour": "309EC3",
+	"badge_text_colour": "",
+	"version": "1.0.0",
+	"dependencies": []
+}
